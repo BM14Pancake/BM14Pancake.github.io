@@ -19,6 +19,6 @@
 }
 
 .theme-dark .mentioned-xhSam7 a {
-  background-color: var(--color-low-trans);
+  background-color: rgba(108, 91, 79, 0.2);
   border-radius: 0.25em;
 }
