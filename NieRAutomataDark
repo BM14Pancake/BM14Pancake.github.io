@@ -1,9 +1,9 @@
 #app-mount {
-  background: url("https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/wallpapers/NieR-LOW-1440.png") center/cover no-repeat;
+  background: url("https://i.imgur.com/yxe0KrZ.png") center/cover no-repeat;
 }
 
 .homeIcon-FuNwkv {
-  background: url(https://i.imgur.com/yxe0KrZ.png) center/contain no-repeat;
+  background: url(https://i.imgur.com/09fncQw.png) center/contain no-repeat;
 }
 
 #app-mount:before {
